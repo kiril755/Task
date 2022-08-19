@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://kiril755.github.io/Test",
+  "homepage": "https://kiril755.github.io/Tast",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Test/"
+    "build": "parcel build src/*.html --public-url /Tast/"
   },
   "repository": {
     "type": "git",
